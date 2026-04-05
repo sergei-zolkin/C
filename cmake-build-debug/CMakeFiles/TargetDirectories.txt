@@ -1,0 +1,3 @@
+C:/Users/zolki/CLionProjects/DataAnalysis/cmake-build-debug/CMakeFiles/DataAnalysis.dir
+C:/Users/zolki/CLionProjects/DataAnalysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zolki/CLionProjects/DataAnalysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
